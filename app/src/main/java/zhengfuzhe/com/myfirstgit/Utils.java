@@ -7,4 +7,6 @@ public class Utils {
     /**
      * this is a  utils
      */
+
+    public static final String TAG = "This ia my test!";
 }
